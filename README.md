@@ -8,20 +8,6 @@ El objetivo principal es **digitalizar el proceso de atención**, mejorando la o
 <div align="center">
   <img src="/assets/video_app_web_barberia.gif" alt="Sistema de reservas de la barbería" style="border: 2px solid #cdc8c8ff; border-radius: 15px;">
 </div>
-
-<div align="center">
-  <img src="/assets/bd.png" width="600" alt="">
-  <img src="/assets/crea_cuenta.png" width="600" alt="">
-  <img src="/assets/rec_cuenta.png" width="600" alt="">
-  <img src="/assets/ini_sesion.png" width="600" alt="">
-  <img src="/assets/panel_admin.png" width="600" alt="">
-  <img src="/assets/ver_citas_admin.png" width="600" alt="">
-  <img src="/assets/nue_serv.png" width="600" alt="">
-  <img src="/assets/fecha_cita.png" width="600" alt="">
-  <img src="/assets/registra_cita.png" width="600" alt="">
-  <img src="/assets/servicios.png" width="600" alt="">
-  <img src="/assets/reservar.png" width="600" alt="">
-</div>
 ---
 
 ## Características Principales
@@ -86,11 +72,17 @@ El objetivo principal es **digitalizar el proceso de atención**, mejorando la o
 ## Capturas de Pantalla
 
 <div align="center">
-    <img src="/assets/login.png" width="600" alt="Login de usuarios">
-    <img src="/assets/registro.png" width="600" alt="Registro de clientes">
-    <img src="/assets/citas.png" width="600" alt="Gestión de citas">
-    <img src="/assets/servicios.png" width="600" alt="Gestión de servicios">
-    <img src="/assets/admin.png" width="600" alt="Panel de administración">
+  <img src="/assets/bd.png" width="600" alt="">
+  <img src="/assets/crea_cuenta.png" width="600" alt="">
+  <img src="/assets/rec_cuenta.png" width="600" alt="">
+  <img src="/assets/ini_sesion.png" width="600" alt="">
+  <img src="/assets/panel_admin.png" width="600" alt="">
+  <img src="/assets/ver_citas_admin.png" width="600" alt="">
+  <img src="/assets/nue_serv.png" width="600" alt="">
+  <img src="/assets/fecha_cita.png" width="600" alt="">
+  <img src="/assets/registra_cita.png" width="600" alt="">
+  <img src="/assets/servicios.png" width="600" alt="">
+  <img src="/assets/reservar.png" width="600" alt="">
 </div>
 
 ---
