@@ -1,4 +1,4 @@
-# 💈 Barbería TOSCO – Sistema de Reservas Web
+# Barbería TOSCO – Sistema de Reservas Web
 
 Aplicación web desarrollada para gestionar reservas en **TOSCO Barber Shop**.
 El sistema permite a los clientes registrarse, iniciar sesión y reservar citas, mientras que los administradores pueden gestionar servicios, controlar citas y mantener actualizada la información de la barbería.
@@ -6,12 +6,25 @@ El sistema permite a los clientes registrarse, iniciar sesión y reservar citas,
 El objetivo principal es **digitalizar el proceso de atención**, mejorando la organización y brindando una mejor experiencia a clientes y barberos.
 
 <div align="center">
-  <img src="/" alt="Sistema de reservas de la barbería" style="border: 2px solid #cdc8c8ff; border-radius: 15px;">
+  <img src="/assets/video_app_web_barberia.gif" alt="Sistema de reservas de la barbería" style="border: 2px solid #cdc8c8ff; border-radius: 15px;">
 </div>
 
+<div align="center">
+  <img src="/assets/bd.png" width="600" alt="">
+  <img src="/assets/crea_cuenta.png" width="600" alt="">
+  <img src="/assets/rec_cuenta.png" width="600" alt="">
+  <img src="/assets/ini_sesion.png" width="600" alt="">
+  <img src="/assets/panel_admin.png" width="600" alt="">
+  <img src="/assets/ver_citas_admin.png" width="600" alt="">
+  <img src="/assets/nue_serv.png" width="600" alt="">
+  <img src="/assets/fecha_cita.png" width="600" alt="">
+  <img src="/assets/registra_cita.png" width="600" alt="">
+  <img src="/assets/servicios.png" width="600" alt="">
+  <img src="/assets/reservar.png" width="600" alt="">
+</div>
 ---
 
-## ✨ Características Principales
+## Características Principales
 
 * **Registro y Confirmación de Usuarios**
     * Sistema con validación de datos, seguridad en contraseñas y confirmación vía correo electrónico.
@@ -29,7 +42,7 @@ El objetivo principal es **digitalizar el proceso de atención**, mejorando la o
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Frontend:** HTML, CSS, JavaScript (MVC básico)
 * **Backend:** PHP 8
@@ -38,19 +51,17 @@ El objetivo principal es **digitalizar el proceso de atención**, mejorando la o
 
 ---
 
-## ⚙️ Instalación y Uso
+## Instalación y Uso
 
-### 📌 Requisitos Previos
+### Requisitos Previos
 
-* Sistema Operativo: Windows 11 (o equivalente)
 * Git
 * Node.js y npm
 * PHP 8
 * Composer
 * MySQL Server + MySQL Workbench
-* Acceso a internet para dependencias
 
-### 🔧 Pasos de Instalación
+### Pasos de Instalación
 
 1.  **Clonar el repositorio**
     ```bash
@@ -72,7 +83,7 @@ El objetivo principal es **digitalizar el proceso de atención**, mejorando la o
 
 ---
 
-## 📊 Capturas de Pantalla
+## Capturas de Pantalla
 
 <div align="center">
     <img src="/assets/login.png" width="600" alt="Login de usuarios">
@@ -84,10 +95,10 @@ El objetivo principal es **digitalizar el proceso de atención**, mejorando la o
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 Si deseas conocer más sobre este proyecto o colaborar:
 
-* [🌐 Portfolio](TU_LINK_DE_PORTFOLIO_AQUI)
-* [💼 LinkedIn](TU_LINK_DE_LINKEDIN_AQUI)
-* 📧 adichidev03@gmail.com
+* [Portfolio](https://adison-chire.github.io/)
+* [LinkedIn](https://www.linkedin.com/in/adison-chire-1603s/)
+* adichidev03@gmail.com
